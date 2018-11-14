@@ -1,0 +1,179 @@
+commit 48a66271803a62fba4a6676e7efa89ceefdbbf18
+Merge: e1cfe4b 15ebedf
+Author: RodrigoQuiroz09 <a01026546@itesm.mx>
+Date:   Wed Nov 7 11:30:44 2018 -0600
+
+    Resolvi los conflictos
+
+commit e1cfe4bf2fcc00582f8ea186117e35dfbac91529
+Author: RodrigoQuiroz09 <a01026546@itesm.mx>
+Date:   Wed Nov 7 11:25:53 2018 -0600
+
+    actualizacion local
+
+commit 15ebedffb4211395892c6bf7d1e12583228a0dca
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Nov 7 11:25:13 2018 -0600
+
+    Update tarea10.txt
+    
+    Modificación remota de la tarea 10
+
+commit 7f1e3094b5251e853d50b4f320379c2309846149
+Merge: 9054d26 4bb7883
+Author: RodrigoQuiroz09 <a01026546@itesm.mx>
+Date:   Wed Nov 7 11:14:13 2018 -0600
+
+    Merge branch 'master' of https://github.com/RodrigoQuiroz09/practicastc1022
+    
+    Este merge es para combinar la tarea10 local con tarea11 remota
+
+commit 4bb78832acfcef226fd2b4d1ac399f8856a6d32b
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Nov 7 11:13:16 2018 -0600
+
+    Create tarea11.txt
+    
+    Subí mi tarea en el repositorio remoto
+
+commit 9054d261b34d387a6b962e06a34e0bdf7cff8c95
+Author: RodrigoQuiroz09 <a01026546@itesm.mx>
+Date:   Wed Nov 7 11:10:49 2018 -0600
+
+    tarea local
+
+commit 2b55768f4f0b57b3da5f59257e495029dc8d56a7
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 19:58:47 2018 -0500
+
+    Add files via upload
+
+commit e4b0c0ade741e49e8f2dab6984d7db7619234db1
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 11:59:34 2018 -0500
+
+    Add files via upload
+
+commit 8bc33ea09d517debc4a6c1917f038a1ecd918baf
+Author: RodrigoQuiroz09 <a01026546@itesm.mx>
+Date:   Wed Oct 24 11:52:50 2018 -0500
+
+    Cifrado de Cisco
+
+commit 5b3f3f250535c51249cc43df2b70d3acb715e552
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 11:52:06 2018 -0500
+
+    Add files via upload
+
+commit bd757159d9e5a10c12b7c2ef012e3adf41c95883
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 11:51:29 2018 -0500
+
+    Delete T5.2 Cisco.gif
+
+commit a2f493111b62b9414733d62ff72228b9f2f35f27
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 11:49:45 2018 -0500
+
+    Add files via upload
+
+commit 92216a511159890a79dc4ca54e387d142973e52d
+Author: RodrigoQuiroz09 <a01026546@itesm.mx>
+Date:   Wed Oct 24 11:48:20 2018 -0500
+
+    Cifrado de Deloite
+
+commit 05fc3a77ec9829af4197688ea69a92a7f4a1904b
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 11:46:42 2018 -0500
+
+    Add files via upload
+
+commit 646d62603f8e87fd3497250bf8cf7129cd9f1b14
+Author: RodrigoQuiroz09 <a01026546@itesm.mx>
+Date:   Wed Oct 24 11:45:42 2018 -0500
+
+    Cifrado de Facebook
+
+commit 542b3db581fa0c01bda16fc6067b43869715c954
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 11:42:55 2018 -0500
+
+    Add files via upload
+
+commit 45c3f5d2bdd80336365fd1e678c417c9a9a20594
+Author: RodrigoQuiroz09 <a01026546@itesm.mx>
+Date:   Wed Oct 24 11:41:53 2018 -0500
+
+    Cifrado de Microsoft
+
+commit 8c6d3adbf47832b84fda6de6dbaa8129e1d48ce8
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 11:40:23 2018 -0500
+
+    Add files via upload
+
+commit b07fe6904bdb719fabd73029d0d5be498cea68ec
+Author: RodrigoQuiroz09 <a01026546@itesm.mx>
+Date:   Wed Oct 24 11:38:10 2018 -0500
+
+    Cifrado de IQ
+
+commit 99c721f6b099d130e8a54b03eb77eca60e81b942
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 11:34:50 2018 -0500
+
+    Add files via upload
+
+commit fe4cae5d0bdd468676ae821ce30f6664a55a3342
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 11:34:34 2018 -0500
+
+    Delete T1.1 Platica IQ.docx
+
+commit 03c9cb2c8d2d2c87edd664ff1b4ac4bb9bcf27e4
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 11:23:33 2018 -0500
+
+    Add files via upload
+
+commit 50fe15dcd681d0736a7fdb56c7f9ad80b86e21dc
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 11:23:17 2018 -0500
+
+    Delete T1.1 Plática IQ.docx
+
+commit 2ae0b34eb575e67d912f5841588051f21b95d46b
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 11:14:24 2018 -0500
+
+    Add files via upload
+    
+    Llave pública de Ariel
+
+commit aacefc0ba49496daa3d3dc3121a57170e477c0b1
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 11:09:22 2018 -0500
+
+    Add files via upload
+
+commit 7ef8eb48a030cf327d64590517968da6945c2306
+Author: RodrigoQuiroz09 <42215354+RodrigoQuiroz09@users.noreply.github.com>
+Date:   Wed Oct 24 10:42:27 2018 -0500
+
+    Delete myPrivateKeyQ.gpg
+    
+    Se eliminó la llave privada
+
+commit 377951a5fb00cf4714be25368bb657778596d94a
+Author: RodrigoQuiroz09 <a01026546@itesm.mx>
+Date:   Wed Oct 24 10:31:32 2018 -0500
+
+    exportar llaves p[ublicas y privadas
+
+commit 66c4061cc439f0adfadda3f55d38c3fb76d071c1
+Author: Rodrigo Quiroz Reyes <rodqz0911@rodqz0911.rga.ip>
+Date:   Wed Oct 10 12:51:53 2018 -0500
+
+    fist commit
